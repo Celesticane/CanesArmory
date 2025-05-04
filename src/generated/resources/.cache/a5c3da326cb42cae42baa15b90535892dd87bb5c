@@ -1,0 +1,9 @@
+// 1.21.1	2024-12-26T22:43:01.3729364	Tags for minecraft:block mod id thecanesarmory
+4635af709f3090ee2b0dc38d8275aee0dfc95906 data/minecraft/tags/block/beacon_base_blocks.json
+269145d4f32e93cc1fee105b2277a713722b2f3b data/minecraft/tags/block/climbable.json
+1ad74e0032c6a68b2756fd70900932a485aa48f6 data/minecraft/tags/block/dragon_immune.json
+8984b450ed735cd224fb52e8a948fbe1b7f696bc data/minecraft/tags/block/mineable/pickaxe.json
+ae95921aa028ce32f879aa0724e771b833bdc1e8 data/minecraft/tags/block/mineable/shovel.json
+4635af709f3090ee2b0dc38d8275aee0dfc95906 data/minecraft/tags/block/needs_diamond_tool.json
+332a2be3b9d4e2f4c40b6121dc35b88f352fb1dd data/minecraft/tags/block/needs_iron_tool.json
+a249c46329a41538f49a564e1f14338aaf1be5a0 data/thecanesarmory/tags/block/needs_encorium_tool.json

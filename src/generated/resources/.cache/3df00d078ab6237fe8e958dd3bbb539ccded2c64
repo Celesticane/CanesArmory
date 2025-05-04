@@ -1,0 +1,17 @@
+// 1.21.1	2025-05-03T19:31:54.5170833	Tags for minecraft:item mod id thecanesarmory
+c8ed1f40df99cd815bc4745540a1c8a3d2c0b641 data/minecraft/tags/item/axes.json
+24a89b16d4b5b8f842b64897d82d4fc6697595bc data/minecraft/tags/item/beacon_payment_items.json
+154f781152994d7ef9fcc6e0dd4f79aa2faad7f7 data/minecraft/tags/item/chest_armor.json
+154f781152994d7ef9fcc6e0dd4f79aa2faad7f7 data/minecraft/tags/item/enchantable/chest_armor.json
+13bb3c9f4822b76c61a7c5f45e3a46f51cbd85dd data/minecraft/tags/item/enchantable/foot_armor.json
+3e7644b2853a47179322a6c0504d266bc2eca3e4 data/minecraft/tags/item/enchantable/head_armor.json
+be6bd27acb62ec8c8a456020d6cdf747561ce75d data/minecraft/tags/item/enchantable/leg_armor.json
+13bb3c9f4822b76c61a7c5f45e3a46f51cbd85dd data/minecraft/tags/item/foot_armor.json
+3e7644b2853a47179322a6c0504d266bc2eca3e4 data/minecraft/tags/item/head_armor.json
+ac04315a65283fb8f4c05e6d96ba31098714c55a data/minecraft/tags/item/hoes.json
+be6bd27acb62ec8c8a456020d6cdf747561ce75d data/minecraft/tags/item/leg_armor.json
+f730774b9762248dfc5ef0679929a256e8958f1d data/minecraft/tags/item/pickaxes.json
+31fdaa8016df77ce1306990bebe1a6d86a6ce35a data/minecraft/tags/item/shovels.json
+e7030cd7ec7e79621e8436300e6c5a8a77621383 data/minecraft/tags/item/swords.json
+296ebabd684f1af3f926a9441d9a90f6a099b510 data/minecraft/tags/item/trimmable_armor.json
+c6cd82ab5ff7080b99ce3825f539b241319403ce data/minecraft/tags/item/trim_templates.json
