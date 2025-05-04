@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "thecanesarmory:encorium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "thecanesarmory:encorium_ingot"
+  }
+}

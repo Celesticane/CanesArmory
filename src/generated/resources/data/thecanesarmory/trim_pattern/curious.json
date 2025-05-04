@@ -1,0 +1,8 @@
+{
+  "asset_id": "thecanesarmory:curious",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.thecanesarmory.curious"
+  },
+  "template_item": "thecanesarmory:curious_armor_trim"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_end",
+  "features": "thecanesarmory:peculiar_placer_s",
+  "step": "underground_ores"
+}

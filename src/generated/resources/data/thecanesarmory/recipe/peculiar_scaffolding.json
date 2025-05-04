@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "thecanesarmory:preposterous_compound"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "S": {
+      "item": "minecraft:scaffolding"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "C C",
+    "SOS"
+  ],
+  "result": {
+    "count": 5,
+    "id": "thecanesarmory:peculiar_scaffolding"
+  }
+}

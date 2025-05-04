@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "thecanesarmory:smithing_template_blank"
+    },
+    "E": {
+      "item": "minecraft:end_stone"
+    },
+    "N": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    }
+  },
+  "pattern": [
+    "ENE",
+    "EBE",
+    "ENE"
+  ],
+  "result": {
+    "count": 1,
+    "id": "thecanesarmory:encorium_upgrade_smithing_template"
+  }
+}

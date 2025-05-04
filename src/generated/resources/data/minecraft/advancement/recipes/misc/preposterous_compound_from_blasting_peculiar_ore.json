@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_peculiar_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thecanesarmory:peculiar_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:preposterous_compound_from_blasting_peculiar_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_peculiar_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:preposterous_compound_from_blasting_peculiar_ore"
+    ]
+  }
+}

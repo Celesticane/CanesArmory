@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "C": {
+      "item": "thecanesarmory:preposterous_block"
+    },
+    "S": {
+      "item": "thecanesarmory:curious_armor_trim"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "id": "thecanesarmory:curious_armor_trim"
+  }
+}

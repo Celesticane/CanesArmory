@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 206,
+  "experience": 0.25,
+  "group": "compound",
+  "ingredient": {
+    "item": "thecanesarmory:peculiar_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "thecanesarmory:preposterous_compound"
+  }
+}

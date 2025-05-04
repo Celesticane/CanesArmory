@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_curious_armor_trim": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thecanesarmory:curious_armor_trim"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thecanesarmory:curious_armor_trim"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_curious_armor_trim"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thecanesarmory:curious_armor_trim"
+    ]
+  }
+}

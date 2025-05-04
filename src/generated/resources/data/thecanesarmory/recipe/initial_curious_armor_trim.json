@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "thecanesarmory:smithing_template_blank"
+    },
+    "C": {
+      "item": "thecanesarmory:preposterous_block"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "E": {
+      "item": "thecanesarmory:encorium_block"
+    }
+  },
+  "pattern": [
+    "DBD",
+    "DCD",
+    "DED"
+  ],
+  "result": {
+    "count": 1,
+    "id": "thecanesarmory:curious_armor_trim"
+  }
+}

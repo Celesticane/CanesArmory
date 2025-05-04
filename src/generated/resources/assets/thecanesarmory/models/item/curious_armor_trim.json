@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thecanesarmory:item/curious_armor_trim"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "feature": "thecanesarmory:peculiar_ore_l",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 3
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "max_inclusive": {
+          "absolute": 89
+        },
+        "min_inclusive": {
+          "absolute": 3
+        }
+      }
+    }
+  ]
+}

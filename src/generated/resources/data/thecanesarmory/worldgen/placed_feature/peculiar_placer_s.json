@@ -1,0 +1,21 @@
+{
+  "feature": "thecanesarmory:peculiar_ore_s",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 189
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+          "absolute": 89
+        },
+        "min_inclusive": {
+          "absolute": 3
+        }
+      }
+    }
+  ]
+}

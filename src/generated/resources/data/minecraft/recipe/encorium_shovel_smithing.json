@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "thecanesarmory:encorium_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "result": {
+    "count": 1,
+    "id": "thecanesarmory:encorium_shovel"
+  },
+  "template": {
+    "item": "thecanesarmory:encorium_upgrade_smithing_template"
+  }
+}

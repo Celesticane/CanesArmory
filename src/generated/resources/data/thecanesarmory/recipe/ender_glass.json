@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "P": {
+      "item": "thecanesarmory:preposterous_compound"
+    }
+  },
+  "pattern": [
+    "GPG",
+    "PEP",
+    "GPG"
+  ],
+  "result": {
+    "count": 8,
+    "id": "thecanesarmory:ender_glass"
+  }
+}

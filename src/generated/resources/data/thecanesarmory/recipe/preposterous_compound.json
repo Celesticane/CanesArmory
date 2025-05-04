@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "thecanesarmory:preposterous_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "thecanesarmory:preposterous_compound"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_compound": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thecanesarmory:preposterous_compound"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thecanesarmory:preposterous_pearls"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_compound"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thecanesarmory:preposterous_pearls"
+    ]
+  }
+}

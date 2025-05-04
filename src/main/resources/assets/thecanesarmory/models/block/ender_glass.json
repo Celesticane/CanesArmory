@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "thecanesarmory:block/ender_glass"
+    },
+    "render_type": "cutout"
+}

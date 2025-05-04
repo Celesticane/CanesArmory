@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_peculiar_shard": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thecanesarmory:peculiar_shard"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:preposterous_compound_from_blasting_peculiar_shard"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_peculiar_shard"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:preposterous_compound_from_blasting_peculiar_shard"
+    ]
+  }
+}

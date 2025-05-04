@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block/scaffolding_stable",
+    "textures": {
+        "particle": "thecanesarmory:block/peculiar_scaffolding_top",
+        "top": "thecanesarmory:block/peculiar_scaffolding_top",
+        "side": "thecanesarmory:block/peculiar_scaffolding_side",
+        "bottom": "thecanesarmory:block/peculiar_scaffolding_bottom"
+    },
+    "render_type": "cutout_mipped"
+}
